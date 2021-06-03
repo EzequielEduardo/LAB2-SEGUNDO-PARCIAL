@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1622675355 source:c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\main.cpp
+	<iostream>
+	"GestionCompras.h"
+	"GestionStock.h"
+	"GestionVentas.h"
+	"Persona.h"
+
+1622675478 c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\gestioncompras.h
+
+1622675492 c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\gestionstock.h
+
+1622675499 c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\gestionventas.h
+
+1622678804 c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\include\persona.h
+	"Fecha.h"
+
+1622678920 source:c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\src\persona.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Persona.h"
+
+1622677567 c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\include\fecha.h
+
+1622677453 source:c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\src\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Fecha.h"
+
+1622686321 source:c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\src\cliente.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Cliente.h"
+
+1622686338 c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\include\cliente.h
+	"Persona.h"
+
+1622686620 source:c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\src\vendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedor.h"
+
+1622686620 c:\users\eze15\onedrive\escritorio\tp final lab2\management system xion\include\vendedor.h
+	"Persona.h"
+

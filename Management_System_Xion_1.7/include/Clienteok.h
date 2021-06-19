@@ -13,11 +13,11 @@ class Clienteok
 		char nombre[50];
         char apellido [50];
         int cuil;
-        int cuit;
         char domicilio[50];
         char localidad[50];
         int telefono;
         char email[50];
+
 
 
 	public:

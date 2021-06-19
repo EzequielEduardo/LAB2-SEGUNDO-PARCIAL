@@ -14,32 +14,19 @@ void ClienteVista::cargarCliente()
 {
     Clienteok obj;
 
+	cargarTodoCliente(obj);
 
 	ClienteNegocio neg1;
 
-	cargarTodoCliente(obj);
-
-
 	while(neg1.ValidacionCliente(obj)==false)
-	{cout<<"ERROR DE CARGA"<<endl;
+	{cout<<"ERROR DE CARGA. CARGAR NUEVAMENTE"<<endl;
 	system("pause");
 
 	cargarTodoCliente(obj);
 
 	};
 
-
-
-	/*while(ID.ValidacionCliente()!=true)
-	{
-	cout << "Datos del Cliente:" << endl;
-	cout<< "Ingrese el Id del Cliente: " <<endl;
-	cin>>id;
-
-	}*/
-
 	cout<<"Carga OK"<<endl;
-
 }
 
 	void ClienteVista::cargarTodoCliente(Clienteok &obj) {
@@ -58,10 +45,6 @@ void ClienteVista::cargarCliente()
 	cout<< "Ingrese el CUIL Cliente: " <<endl;
 	cin>>cuil;
 	obj.setCuil(cuil);
-
-	cout<< "Ingrese el CUIt Cliente: " <<endl;
-	cin>>cuil;
-	obj.setCuit(cuil);
 
 	cout<< "Ingrese el domicilio de Cliente: " <<endl;
 	scanf("%s",n);
@@ -85,9 +68,27 @@ void ClienteVista::cargarCliente()
 
 
 
-/*void ClienteVista::mostrarCliente(ClienteNegocio pp)
+void ClienteVista::mostrarCliente()
 	{
-		cout << "Datos del Cliente:" << endl;
-		cout << "Id del Cliente: " << pp.GetIdCliente()<< endl;
+		ClienteNegocio pp;
+		int pos=0;
+
+		Clienteok objok;
+
+		//Clienteok obj2;  //& direccion de memoria
+		//*objok=obj2;  // * contenido de la direccion de memoria
+
+		while(pp.listardeArchivo(objok, pos)==true){
+
+			mostrarCliente();
+			pos++;
+
+		}
+
+		if(pos==0) cout<<"No se encontraron datos en el file"<<endl;
+
+
+
+
 	}
-*/
+

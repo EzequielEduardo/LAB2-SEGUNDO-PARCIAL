@@ -15,9 +15,8 @@ using namespace std;
 bool ClienteNegocio::ValidacionCliente ( Clienteok cliente )
 {
 
-	if(strlen(cliente.getNombre())<10 )
+	if(strlen(cliente.getNombre())<50)
 	{
-
 		return AgregarEnArchivo( &cliente);
 	}
 	else {return false;};
@@ -39,3 +38,30 @@ bool ClienteNegocio::ValidacionCliente ( Clienteok cliente )
 
 	}
 
+
+
+    bool leerDeDisco_Cliente(Clienteok &reg,int pos){
+        FILE *p;
+        p=fopen("Cliente.dat","rb");
+        if(p==NULL) return false;
+        fseek(p, pos*sizeof Clienteok, 0);
+        bool leyo=fread(&Clienteok, sizeof Clienteok, 1, p);
+        fclose(p);
+        return leyo;
+    }
+
+
+	/*bool ClienteNegocio::listardeArchivo(Clienteok &reg, int pos)
+	{
+
+		ClienteFile obj ;
+
+
+
+
+
+		if(obj.leerDeDisco_Cliente(reg, pos)==true) return true;
+		else return false;
+
+	}
+*/

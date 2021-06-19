@@ -8,13 +8,15 @@ class  ClienteNegocio
 {
 	private:
 
-
-
 	public:
 
-	bool ValidacionCliente (Clienteok );
+	bool ValidacionCliente (Clienteok);
 
 	bool AgregarEnArchivo(Clienteok*);
+
+	//bool listardeArchivo(Clienteok &objok, int pos);
+
+	bool leerDeDisco_Cliente(Clienteok &reg,int pos);
 
 };
 

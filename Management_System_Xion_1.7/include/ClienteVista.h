@@ -14,10 +14,10 @@ class ClienteVista
 	public:
 
 
-	void mostrarCliente(ClienteNegocio ID);
+
 	void cargarCliente();
 	void cargarTodoCliente(Clienteok &obj);
-
+	void mostrarCliente();
 
 };
 

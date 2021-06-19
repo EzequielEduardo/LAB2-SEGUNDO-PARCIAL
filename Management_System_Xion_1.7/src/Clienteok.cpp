@@ -11,7 +11,6 @@ using namespace std;
         void Clienteok::setNombre(const char* cadena){strcpy(nombre,cadena);}
         void Clienteok::setApellido(const char* cadena){strcpy(apellido,cadena);}
         void Clienteok::setCuil(int n){cuil=n;}
-        void Clienteok::setCuit(int n){cuit=n;}
         void Clienteok::setDomicilio(const char* cadena){strcpy(domicilio,cadena);}
         void Clienteok::setLocalidad(const char* cadena){strcpy(localidad,cadena);}
         void Clienteok::setTelefono(int n){telefono=n;}
@@ -23,7 +22,6 @@ using namespace std;
         const char* Clienteok::getNombre(){return nombre;}
         const char* Clienteok::getApellido(){return apellido;}
         int         Clienteok::getCuil(){return cuil;}
-        int         Clienteok::getCuit(){return cuit;}
         const char* Clienteok::getDomicilio(){return domicilio;}
         const char* Clienteok::getLocalidad(){return localidad;}
         int         Clienteok::getTelefono(){return telefono;}

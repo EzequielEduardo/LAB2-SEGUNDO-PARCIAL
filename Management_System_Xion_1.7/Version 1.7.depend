@@ -256,7 +256,7 @@
 	"EmpleadoVista.h"
 	"EmpleadoNegocio.h"
 
-1624060301 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clientefile.cpp
+1624074942 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clientefile.cpp
 	<iostream>
 	<clocale>
 	<cstdlib>
@@ -264,13 +264,13 @@
 	"ClienteFile.h"
 	"Cliente.h"
 
-1624060263 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clientenegocio.h
+1624074942 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clientenegocio.h
 	"Clienteok.h"
 
-1624060301 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clientefile.h
+1624074740 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clientefile.h
 	"ClienteNegocio.h"
 
-1624063089 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clientenegocio.cpp
+1624074749 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clientenegocio.cpp
 	<iostream>
 	<clocale>
 	<cstdlib>
@@ -282,10 +282,10 @@
 	"ClienteNegocio.h"
 	"ClienteVista.h"
 
-1624063378 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clientevista.h
+1624072236 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clientevista.h
 	"ClienteNegocio.h"
 
-1624063089 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clientevista.cpp
+1624074414 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clientevista.cpp
 	<iostream>
 	<clocale>
 	<cstdlib>
@@ -359,13 +359,13 @@
 	<cstdlib>
 	"Fecha.h"
 
-1624057479 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clienteok.cpp
+1624070593 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clienteok.cpp
 	<iostream>
 	<clocale>
 	<cstdlib>
 	"Clienteok.h"
 	<cstring>
 
-1624057468 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clienteok.h
+1624070593 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clienteok.h
 	"Fecha.h"
 

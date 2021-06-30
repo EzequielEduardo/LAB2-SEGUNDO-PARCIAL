@@ -1,0 +1,2188 @@
+# depslib dependency file v1.0
+1623535792 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteFile.h"
+
+1623535726 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\include\clientefile.h
+
+1623535713 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+
+1623536617 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\include\clientenegocio.h
+
+1623536216 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+
+1623536696 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\include\clientevista.h
+
+1623533334 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\version 1.2\version 1.2\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteVista.h"
+
+1623590464 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+
+1623586182 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\include\clientenegocio.h
+
+1623591406 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\include\clientefile.h
+
+1623544598 c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\include\clientevista.h
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+
+1623591006 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+
+1623590032 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+	"ClienteFile.h"
+
+1623584284 source:c:\users\ujmvare\desktop\pers\programacion utn\lab ii\tp integrador\management_system_xion_1.2\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1623624255 source:c:\users\usuario\desktop\management_system_xion_1.3\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+
+1623623059 c:\users\usuario\desktop\management_system_xion_1.3\include\clientenegocio.h
+
+1623624458 c:\users\usuario\desktop\management_system_xion_1.3\include\clientefile.h
+	"ClienteNegocio.h"
+
+1623622226 c:\users\usuario\desktop\management_system_xion_1.3\include\clientevista.h
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+
+1623625158 source:c:\users\usuario\desktop\management_system_xion_1.3\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+
+1623624130 source:c:\users\usuario\desktop\management_system_xion_1.3\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1623624372 source:c:\users\usuario\desktop\management_system_xion_1.3\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1623625158 source:c:\users\usuario\desktop\management_system_xion_1.4\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+
+1623623059 c:\users\usuario\desktop\management_system_xion_1.4\include\clientenegocio.h
+
+1623624458 c:\users\usuario\desktop\management_system_xion_1.4\include\clientefile.h
+	"ClienteNegocio.h"
+
+1623625621 source:c:\users\usuario\desktop\management_system_xion_1.4\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1623622226 c:\users\usuario\desktop\management_system_xion_1.4\include\clientevista.h
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+
+1623624130 source:c:\users\usuario\desktop\management_system_xion_1.4\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1623800938 source:c:\users\usuario\desktop\management_system_xion_1.4\src\empleadofile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+
+1623799906 c:\users\usuario\desktop\management_system_xion_1.4\include\empleadonegocio.h
+
+1623800896 c:\users\usuario\desktop\management_system_xion_1.4\include\empleadofile.h
+	"EmpleadoNegocio.h"
+	<cstdio>
+
+1623800201 source:c:\users\usuario\desktop\management_system_xion_1.4\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"EmpleadoVista.h"
+
+1623799906 c:\users\usuario\desktop\management_system_xion_1.4\include\empleadovista.h
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+
+1623800249 source:c:\users\usuario\desktop\management_system_xion_1.4\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1623800978 source:c:\users\usuario\desktop\management_system_xion_1.4\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1623897821 source:c:\users\usuario\desktop\management_system_xion_1.5\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+
+1623623059 c:\users\usuario\desktop\management_system_xion_1.5\include\clientenegocio.h
+
+1623897821 c:\users\usuario\desktop\management_system_xion_1.5\include\clientefile.h
+	"ClienteNegocio.h"
+
+1623625621 source:c:\users\usuario\desktop\management_system_xion_1.5\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1623896560 c:\users\usuario\desktop\management_system_xion_1.5\include\clientevista.h
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+
+1623897874 source:c:\users\usuario\desktop\management_system_xion_1.5\src\empleadofile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+
+1623799906 c:\users\usuario\desktop\management_system_xion_1.5\include\empleadonegocio.h
+
+1623897859 c:\users\usuario\desktop\management_system_xion_1.5\include\empleadofile.h
+	"EmpleadoNegocio.h"
+	<cstdio>
+
+1623800249 source:c:\users\usuario\desktop\management_system_xion_1.5\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1623896560 c:\users\usuario\desktop\management_system_xion_1.5\include\empleadovista.h
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+
+1623897886 source:c:\users\usuario\desktop\management_system_xion_1.5\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1623897931 source:c:\users\usuario\desktop\management_system_xion_1.5\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"EmpleadoVista.h"
+
+1623897919 source:c:\users\usuario\desktop\management_system_xion_1.5\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1624074942 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Cliente.h"
+
+1624074942 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clientenegocio.h
+	"Clienteok.h"
+
+1624074740 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624074749 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624072236 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clientevista.h
+	"ClienteNegocio.h"
+
+1624074414 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1623967125 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\empleadofile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+
+1623967125 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\empleadonegocio.h
+
+1623967125 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\empleadofile.h
+	"EmpleadoNegocio.h"
+	<cstdio>
+
+1623967125 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1623967125 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\empleadovista.h
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+
+1623967125 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1624059060 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Clienteok.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+
+1624056394 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\cliente.h
+	"Fecha.h"
+
+1624053586 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\fecha.h
+
+1624055634 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	"Cliente.h"
+
+1624052957 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"Fecha.h"
+
+1624070593 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\src\clienteok.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"Clienteok.h"
+	<cstring>
+
+1624070593 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.7\include\clienteok.h
+	"Fecha.h"
+
+1624075451 source:c:\users\usuario\desktop\management_system_xion_1.7\src\clienteok.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"Clienteok.h"
+	<cstring>
+
+1624152617 c:\users\usuario\desktop\management_system_xion_1.7\include\clienteok.h
+	"Fecha.h"
+
+1624075451 c:\users\usuario\desktop\management_system_xion_1.7\include\fecha.h
+
+1624151512 source:c:\users\usuario\desktop\management_system_xion_1.7\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Clienteok.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+
+1624152617 c:\users\usuario\desktop\management_system_xion_1.7\include\clientenegocio.h
+	"Clienteok.h"
+
+1624152617 c:\users\usuario\desktop\management_system_xion_1.7\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624152617 c:\users\usuario\desktop\management_system_xion_1.7\include\clientevista.h
+	"ClienteNegocio.h"
+	"Clienteok.h"
+
+1624152617 source:c:\users\usuario\desktop\management_system_xion_1.7\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624152617 source:c:\users\usuario\desktop\management_system_xion_1.7\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Cliente.h"
+
+1624075451 c:\users\usuario\desktop\management_system_xion_1.7\include\cliente.h
+	"Fecha.h"
+
+1624152617 source:c:\users\usuario\desktop\management_system_xion_1.7\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1624151512 source:c:\users\usuario\desktop\management_system_xion_1.8\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Clienteok.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+
+1624075451 c:\users\usuario\desktop\management_system_xion_1.8\include\fecha.h
+
+1624152617 c:\users\usuario\desktop\management_system_xion_1.8\include\clienteok.h
+	"Fecha.h"
+
+1624152617 c:\users\usuario\desktop\management_system_xion_1.8\include\clientenegocio.h
+	"Clienteok.h"
+
+1624152617 c:\users\usuario\desktop\management_system_xion_1.8\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624152617 c:\users\usuario\desktop\management_system_xion_1.8\include\clientevista.h
+	"ClienteNegocio.h"
+	"Clienteok.h"
+
+1624152617 source:c:\users\usuario\desktop\management_system_xion_1.8\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Cliente.h"
+
+1624075451 c:\users\usuario\desktop\management_system_xion_1.8\include\cliente.h
+	"Fecha.h"
+
+1624152617 source:c:\users\usuario\desktop\management_system_xion_1.8\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624152668 source:c:\users\usuario\desktop\management_system_xion_1.8\src\clienteok.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"Clienteok.h"
+	<cstring>
+
+1624152617 source:c:\users\usuario\desktop\management_system_xion_1.8\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1624155410 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Clienteok.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+
+1624155410 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\include\fecha.h
+
+1624199852 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\include\clienteok.h
+	"Fecha.h"
+
+1624155410 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\include\clientenegocio.h
+	"Clienteok.h"
+
+1624155410 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624155410 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\include\clientevista.h
+	"ClienteNegocio.h"
+	"Clienteok.h"
+
+1624190069 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Clienteok.h"
+
+1624155410 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\include\cliente.h
+	"Fecha.h"
+
+1624155410 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624199084 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\src\clienteok.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	"Clienteok.h"
+	<cstring>
+
+1624198854 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.8-main\management_system_xion_1.8\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1624238503 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Clienteok.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"Proveedor.h"
+	"MenuPrincipal.h"
+
+1624155410 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\fecha.h
+
+1624202705 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\clienteok.h
+
+1624201427 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\clientenegocio.h
+	"Clienteok.h"
+
+1624222785 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624238464 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\clientevista.h
+	"ClienteNegocio.h"
+	"Clienteok.h"
+
+1624190069 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Clienteok.h"
+
+1624222785 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624238950 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1624202741 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\clienteok.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Clienteok.h"
+
+1624222607 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\proveedor.h
+
+1624279550 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\proveedor.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Proveedor.h"
+
+1624281428 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\proveedorfile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ProveedorNegocio.h"
+	"ProveedorFile.h"
+	"Proveedor.h"
+
+1624224454 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\proveedornegocio.h
+	"Proveedor.h"
+
+1624280809 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\proveedorfile.h
+
+1624225135 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\proveedornegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorFile.h"
+	"ProveedorNegocio.h"
+	"ProveedorVista.h"
+
+1624238464 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\proveedorvista.h
+	"Proveedor.h"
+	"ProveedorNegocio.h"
+
+1624238770 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\proveedorvista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorVista.h"
+	"ProveedorNegocio.h"
+
+1624238464 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\menuprincipal.h
+
+1624238742 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\menuprincipal.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"MenuPrincipal.h"
+	"ClienteVista.h"
+	"ProveedorVista.h"
+
+1624280425 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1624281355 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\empleado.h
+
+1624280951 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\empleadofile.h
+
+1624280427 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\empleadonegocio.h
+	"Empleado.h"
+
+1624280251 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\include\empleadovista.h
+	"Empleado.h"
+	"EmpleadoNegocio.h"
+
+1624280249 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1624281240 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\empleadofile.cpp
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"Empleado.h"
+
+1624281325 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_1.9-main\management_system_xion_1.8\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Empleado.h"
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Clienteok.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"Proveedor.h"
+	"MenuPrincipal.h"
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\fecha.h
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\clienteok.h
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\clientenegocio.h
+	"Clienteok.h"
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624303266 c:\users\usuario\desktop\management_system_xion_1.9\include\clientevista.h
+	"ClienteNegocio.h"
+	"Clienteok.h"
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\proveedor.h
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\menuprincipal.h
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Clienteok.h"
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\clienteok.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Clienteok.h"
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Empleado.h"
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\empleado.h
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\empleadofile.cpp
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"Empleado.h"
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\empleadonegocio.h
+	"Empleado.h"
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\empleadofile.h
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1624304368 c:\users\usuario\desktop\management_system_xion_1.9\include\empleadovista.h
+	"Empleado.h"
+	"EmpleadoNegocio.h"
+
+1624304434 source:c:\users\usuario\desktop\management_system_xion_1.9\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\menuprincipal.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"MenuPrincipal.h"
+	"ClienteVista.h"
+	"ProveedorVista.h"
+	"EmpleadoVista.h"
+
+1624304368 c:\users\usuario\desktop\management_system_xion_1.9\include\proveedorvista.h
+	"Proveedor.h"
+	"ProveedorNegocio.h"
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\proveedornegocio.h
+	"Proveedor.h"
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\proveedor.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Proveedor.h"
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\proveedorfile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ProveedorNegocio.h"
+	"ProveedorFile.h"
+	"Proveedor.h"
+
+1624281784 c:\users\usuario\desktop\management_system_xion_1.9\include\proveedorfile.h
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\proveedornegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorFile.h"
+	"ProveedorNegocio.h"
+	"ProveedorVista.h"
+
+1624281784 source:c:\users\usuario\desktop\management_system_xion_1.9\src\proveedorvista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorVista.h"
+	"ProveedorNegocio.h"
+
+1624303351 source:c:\users\usuario\desktop\management_system_xion_1.9\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Clienteok.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"Proveedor.h"
+	"MenuPrincipal.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\fecha.h
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\clienteok.h
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\clientenegocio.h
+	"Clienteok.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\clientevista.h
+	"ClienteNegocio.h"
+	"Clienteok.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\proveedor.h
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\menuprincipal.h
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Clienteok.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\clienteok.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Clienteok.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Clienteok.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Empleado.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\empleado.h
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\empleadofile.cpp
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"Empleado.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\empleadonegocio.h
+	"Empleado.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\empleadofile.h
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\empleadovista.h
+	"Empleado.h"
+	"EmpleadoNegocio.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\menuprincipal.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"MenuPrincipal.h"
+	"ClienteVista.h"
+	"ProveedorVista.h"
+	"EmpleadoVista.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\proveedorvista.h
+	"Proveedor.h"
+	"ProveedorNegocio.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\proveedornegocio.h
+	"Proveedor.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\proveedor.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Proveedor.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\proveedorfile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ProveedorNegocio.h"
+	"ProveedorFile.h"
+	"Proveedor.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\include\proveedorfile.h
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\proveedornegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorFile.h"
+	"ProveedorNegocio.h"
+	"ProveedorVista.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.0\src\proveedorvista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorVista.h"
+	"ProveedorNegocio.h"
+
+1624390775 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Cliente.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"Proveedor.h"
+	"MenuPrincipal.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\fecha.h
+
+1624374657 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\clienteok.h
+
+1624374996 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\clientenegocio.h
+	"Cliente.h"
+
+1624375027 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624375005 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\clientevista.h
+	"ClienteNegocio.h"
+	"Cliente.h"
+
+1624392887 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\proveedor.h
+	"Proveedor.h"
+	"Persona.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\menuprincipal.h
+
+1624375048 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Cliente.h"
+
+1624374989 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624375075 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1624393135 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Empleado.h"
+
+1624393135 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\empleado.h
+	"Persona.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\empleadofile.cpp
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"Empleado.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\empleadonegocio.h
+	"Empleado.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\empleadofile.h
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\empleadovista.h
+	"Empleado.h"
+	"EmpleadoNegocio.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\menuprincipal.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"MenuPrincipal.h"
+	"ClienteVista.h"
+	"ProveedorVista.h"
+	"EmpleadoVista.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\proveedorvista.h
+	"Proveedor.h"
+	"ProveedorNegocio.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\proveedornegocio.h
+	"Proveedor.h"
+
+1624391072 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\proveedor.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Proveedor.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\proveedorfile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ProveedorNegocio.h"
+	"ProveedorFile.h"
+	"Proveedor.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\proveedorfile.h
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\proveedornegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorFile.h"
+	"ProveedorNegocio.h"
+	"ProveedorVista.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\proveedorvista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorVista.h"
+	"ProveedorNegocio.h"
+
+1624390582 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Cliente.h"
+	"Persona.h"
+
+1624390546 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\cliente.h
+	"Persona.h"
+
+1624390775 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Cliente.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"Proveedor.h"
+	"MenuPrincipal.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\fecha.h
+
+1624390546 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\cliente.h
+	"Persona.h"
+
+1624374996 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\clientenegocio.h
+	"Cliente.h"
+
+1624375027 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624375005 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\clientevista.h
+	"ClienteNegocio.h"
+	"Cliente.h"
+
+1624392887 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\proveedor.h
+	"Proveedor.h"
+	"Persona.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\menuprincipal.h
+
+1624375048 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Cliente.h"
+
+1624374989 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624375075 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Empleado.h"
+
+1624393135 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\empleado.h
+	"Persona.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\empleadofile.cpp
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"Empleado.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\empleadonegocio.h
+	"Empleado.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\empleadofile.h
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\empleadovista.h
+	"Empleado.h"
+	"EmpleadoNegocio.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\menuprincipal.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"MenuPrincipal.h"
+	"ClienteVista.h"
+	"ProveedorVista.h"
+	"EmpleadoVista.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\proveedorvista.h
+	"Proveedor.h"
+	"ProveedorNegocio.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\proveedornegocio.h
+	"Proveedor.h"
+
+1624391072 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\proveedor.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Proveedor.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\proveedorfile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ProveedorNegocio.h"
+	"ProveedorFile.h"
+	"Proveedor.h"
+
+1624304870 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\proveedorfile.h
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\proveedornegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorFile.h"
+	"ProveedorNegocio.h"
+	"ProveedorVista.h"
+
+1624304870 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\proveedorvista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorVista.h"
+	"ProveedorNegocio.h"
+
+1624390351 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\include\persona.h
+	"Persona.h"
+
+1624390582 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Cliente.h"
+	"Persona.h"
+
+1624390546 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.2\src\persona.cpp
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Persona.h"
+
+1624390351 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\include\persona.h
+	"Persona.h"
+
+1624390546 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.1\src\persona.cpp
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Persona.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.1\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Cliente.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"Proveedor.h"
+	"MenuPrincipal.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.1\include\fecha.h
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.1\include\cliente.h
+	"Persona.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.1\include\persona.h
+	"Persona.h"
+
+1624407303 c:\users\usuario\desktop\management_system_xion_2.1\include\clientenegocio.h
+	"Cliente.h"
+
+1624408263 c:\users\usuario\desktop\management_system_xion_2.1\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.1\include\clientevista.h
+	"ClienteNegocio.h"
+	"Cliente.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.1\include\proveedor.h
+	"Proveedor.h"
+	"Persona.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.1\include\menuprincipal.h
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.1\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Cliente.h"
+	"Persona.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.1\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Empleado.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.1\include\empleado.h
+	"Persona.h"
+
+1624411302 source:c:\users\usuario\desktop\management_system_xion_2.1\src\empleadofile.cpp
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"Empleado.h"
+
+1624411317 c:\users\usuario\desktop\management_system_xion_2.1\include\empleadonegocio.h
+	"Empleado.h"
+
+1624411302 c:\users\usuario\desktop\management_system_xion_2.1\include\empleadofile.h
+
+1624411352 source:c:\users\usuario\desktop\management_system_xion_2.1\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.1\include\empleadovista.h
+	"Empleado.h"
+	"EmpleadoNegocio.h"
+
+1624411414 source:c:\users\usuario\desktop\management_system_xion_2.1\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.1\src\menuprincipal.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"MenuPrincipal.h"
+	"ClienteVista.h"
+	"ProveedorVista.h"
+	"EmpleadoVista.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.1\include\proveedorvista.h
+	"Proveedor.h"
+	"ProveedorNegocio.h"
+
+1624409553 c:\users\usuario\desktop\management_system_xion_2.1\include\proveedornegocio.h
+	"Proveedor.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.1\src\persona.cpp
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Persona.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.1\src\proveedor.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Proveedor.h"
+
+1624409553 source:c:\users\usuario\desktop\management_system_xion_2.1\src\proveedorfile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ProveedorNegocio.h"
+	"ProveedorFile.h"
+	"Proveedor.h"
+
+1624409553 c:\users\usuario\desktop\management_system_xion_2.1\include\proveedorfile.h
+
+1624409553 source:c:\users\usuario\desktop\management_system_xion_2.1\src\proveedornegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorFile.h"
+	"ProveedorNegocio.h"
+	"ProveedorVista.h"
+
+1624409553 source:c:\users\usuario\desktop\management_system_xion_2.1\src\proveedorvista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorVista.h"
+	"ProveedorNegocio.h"
+
+1624409553 source:c:\users\usuario\desktop\management_system_xion_2.1\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624409553 source:c:\users\usuario\desktop\management_system_xion_2.1\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Cliente.h"
+
+1624409553 source:c:\users\usuario\desktop\management_system_xion_2.1\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.2\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Cliente.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"Proveedor.h"
+	"MenuPrincipal.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.2\include\fecha.h
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.2\include\cliente.h
+	"Persona.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.2\include\persona.h
+	"Persona.h"
+
+1624552970 c:\users\usuario\desktop\management_system_xion_2.2\include\clientenegocio.h
+	"Cliente.h"
+
+1624553744 c:\users\usuario\desktop\management_system_xion_2.2\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.2\include\clientevista.h
+	"ClienteNegocio.h"
+	"Cliente.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.2\include\proveedor.h
+	"Proveedor.h"
+	"Persona.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.2\include\menuprincipal.h
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.2\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Cliente.h"
+	"Persona.h"
+
+1624552959 source:c:\users\usuario\desktop\management_system_xion_2.2\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Cliente.h"
+
+1624552959 source:c:\users\usuario\desktop\management_system_xion_2.2\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.2\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Empleado.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.2\include\empleado.h
+	"Persona.h"
+
+1624553140 source:c:\users\usuario\desktop\management_system_xion_2.2\src\empleadofile.cpp
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"Empleado.h"
+
+1624553140 c:\users\usuario\desktop\management_system_xion_2.2\include\empleadonegocio.h
+	"Empleado.h"
+
+1624553140 c:\users\usuario\desktop\management_system_xion_2.2\include\empleadofile.h
+
+1624553151 source:c:\users\usuario\desktop\management_system_xion_2.2\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.2\include\empleadovista.h
+	"Empleado.h"
+	"EmpleadoNegocio.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.2\src\menuprincipal.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"MenuPrincipal.h"
+	"ClienteVista.h"
+	"ProveedorVista.h"
+	"EmpleadoVista.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.2\include\proveedorvista.h
+	"Proveedor.h"
+	"ProveedorNegocio.h"
+
+1624553359 c:\users\usuario\desktop\management_system_xion_2.2\include\proveedornegocio.h
+	"Proveedor.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.2\src\persona.cpp
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Persona.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.2\src\proveedor.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Proveedor.h"
+
+1624553359 source:c:\users\usuario\desktop\management_system_xion_2.2\src\proveedorfile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ProveedorNegocio.h"
+	"ProveedorFile.h"
+	"Proveedor.h"
+
+1624553359 c:\users\usuario\desktop\management_system_xion_2.2\include\proveedorfile.h
+
+1624553359 source:c:\users\usuario\desktop\management_system_xion_2.2\src\proveedornegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorFile.h"
+	"ProveedorNegocio.h"
+	"ProveedorVista.h"
+
+1624552981 source:c:\users\usuario\desktop\management_system_xion_2.2\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1624553140 source:c:\users\usuario\desktop\management_system_xion_2.2\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1624553359 source:c:\users\usuario\desktop\management_system_xion_2.2\src\proveedorvista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorVista.h"
+	"ProveedorNegocio.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.3\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Cliente.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"Proveedor.h"
+	"MenuPrincipal.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.3\include\fecha.h
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.3\include\cliente.h
+	"Persona.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.3\include\persona.h
+	"Persona.h"
+
+1624552970 c:\users\usuario\desktop\management_system_xion_2.3\include\clientenegocio.h
+	"Cliente.h"
+
+1624553744 c:\users\usuario\desktop\management_system_xion_2.3\include\clientefile.h
+	"ClienteNegocio.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.3\include\clientevista.h
+	"ClienteNegocio.h"
+	"Cliente.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.3\include\proveedor.h
+	"Proveedor.h"
+	"Persona.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.3\include\menuprincipal.h
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.3\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Cliente.h"
+	"Persona.h"
+
+1624552959 source:c:\users\usuario\desktop\management_system_xion_2.3\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Cliente.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.3\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Empleado.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.3\include\empleado.h
+	"Persona.h"
+
+1624553140 source:c:\users\usuario\desktop\management_system_xion_2.3\src\empleadofile.cpp
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"Empleado.h"
+
+1624553140 c:\users\usuario\desktop\management_system_xion_2.3\include\empleadonegocio.h
+	"Empleado.h"
+
+1624553140 c:\users\usuario\desktop\management_system_xion_2.3\include\empleadofile.h
+
+1624553151 source:c:\users\usuario\desktop\management_system_xion_2.3\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.3\include\empleadovista.h
+	"Empleado.h"
+	"EmpleadoNegocio.h"
+
+1624553140 source:c:\users\usuario\desktop\management_system_xion_2.3\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1625019219 source:c:\users\usuario\desktop\management_system_xion_2.3\src\menuprincipal.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"MenuPrincipal.h"
+	"ClienteVista.h"
+	"ProveedorVista.h"
+	"EmpleadoVista.h"
+	"CompraVista.h"
+	"VentaVista.h"
+
+1624393603 c:\users\usuario\desktop\management_system_xion_2.3\include\proveedorvista.h
+	"Proveedor.h"
+	"ProveedorNegocio.h"
+
+1624553359 c:\users\usuario\desktop\management_system_xion_2.3\include\proveedornegocio.h
+	"Proveedor.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.3\src\persona.cpp
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Persona.h"
+
+1624393603 source:c:\users\usuario\desktop\management_system_xion_2.3\src\proveedor.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Proveedor.h"
+
+1624553359 source:c:\users\usuario\desktop\management_system_xion_2.3\src\proveedorfile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ProveedorNegocio.h"
+	"ProveedorFile.h"
+	"Proveedor.h"
+
+1624553359 c:\users\usuario\desktop\management_system_xion_2.3\include\proveedorfile.h
+
+1624553359 source:c:\users\usuario\desktop\management_system_xion_2.3\src\proveedornegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorFile.h"
+	"ProveedorNegocio.h"
+	"ProveedorVista.h"
+
+1624553359 source:c:\users\usuario\desktop\management_system_xion_2.3\src\proveedorvista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorVista.h"
+	"ProveedorNegocio.h"
+
+1624580295 source:c:\users\usuario\desktop\management_system_xion_2.3\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1624580295 source:c:\users\usuario\desktop\management_system_xion_2.3\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1625016626 source:c:\users\usuario\desktop\management_system_xion_2.3\src\datos_compraventa.cpp
+	"Datos_CompraVenta.h"
+	<cstring>
+	<cstdio>
+	<string.h>
+
+1625016626 c:\users\usuario\desktop\management_system_xion_2.3\include\datos_compraventa.h
+
+1625017725 source:c:\users\usuario\desktop\management_system_xion_2.3\src\comprafile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"CompraFile.h"
+	"Datos_CompraVenta.h"
+	"CompraNegocio.h"
+
+1625017939 c:\users\usuario\desktop\management_system_xion_2.3\include\comprafile.h
+	"Datos_CompraVenta.h"
+
+1625017725 c:\users\usuario\desktop\management_system_xion_2.3\include\compranegocio.h
+	"Datos_CompraVenta.h"
+
+1625017939 source:c:\users\usuario\desktop\management_system_xion_2.3\src\compranegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Datos_CompraVenta.h"
+	"CompraNegocio.h"
+	"CompraFile.h"
+
+1625018071 source:c:\users\usuario\desktop\management_system_xion_2.3\src\compravista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Datos_CompraVenta.h"
+	"CompraNegocio.h"
+	"CompraVista.h"
+
+1625016252 c:\users\usuario\desktop\management_system_xion_2.3\include\compravista.h
+
+1625018877 source:c:\users\usuario\desktop\management_system_xion_2.3\src\ventanegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Datos_CompraVenta.h"
+	"VentaNegocio.h"
+	"VentaFile.h"
+
+1625018877 c:\users\usuario\desktop\management_system_xion_2.3\include\ventanegocio.h
+
+1625018914 c:\users\usuario\desktop\management_system_xion_2.3\include\ventafile.h
+	"Datos_CompraVenta.h"
+
+1625018877 source:c:\users\usuario\desktop\management_system_xion_2.3\src\ventafile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"VentaFile.h"
+	"Datos_CompraVenta.h"
+	"VentaNegocio.h"
+
+1625019067 source:c:\users\usuario\desktop\management_system_xion_2.3\src\ventavista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Datos_CompraVenta.h"
+	"VentaNegocio.h"
+	"VentaVista.h"
+
+1625018877 c:\users\usuario\desktop\management_system_xion_2.3\include\ventavista.h
+

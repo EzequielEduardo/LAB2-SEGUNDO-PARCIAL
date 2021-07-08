@@ -132,13 +132,12 @@ bool TransaxinventarioFile::modificarEnDisco(TransaxInventario datos)  //paso po
 int TransaxinventarioFile::getStock(){
         TransaxInventario datos;
         FILE *p;
-        p=fopen("Inventario.dat","rb");// habro el archivo en modo lectura
+        p=fopen("Inventario.dat","rb");// abro el archivo en modo lectura
         if(p==NULL) return 0;
         fseek(p,sizeof (TransaxInventario), 2); //posiciono el puntero al final del archivo
         fread(&datos, sizeof (TransaxInventario), 1, p);
 return datos.getStock();//devuelvo el stock disponible;
 }
-
 
 
 TransaxInventario* TransaxinventarioFile::obtener_Datos_Compras(){

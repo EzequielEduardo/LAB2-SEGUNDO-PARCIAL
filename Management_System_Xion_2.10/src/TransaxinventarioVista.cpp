@@ -16,10 +16,9 @@ void TransaxinventarioVista::MostrarInventario(){
 
         for(int x;x<negocio.CantidadDeTransax();x++){
         cout<< "ID_Articulo: "<<vectorStock[x].getTRID_Articulo() <<endl;
-        cout<< "Anio de compra: "<<vectorStock[x].getFechaTransax().getAnio() <<endl;
-        cout<< "Mes de compra: "<<vectorStock[x].getFechaTransax().getMes() <<endl;
-		cout<< "Dia de compra: "<<vectorStock[x].getFechaTransax().getDia() <<endl;
-		cout<< "ID_Articulo: "<<vectorStock[x].getTRID_Articulo() <<endl;
+        cout<< "Anio de Stock: "<<vectorStock[x].getFechaTransax().getAnio() <<endl;
+        cout<< "Mes de Stock: "<<vectorStock[x].getFechaTransax().getMes() <<endl;
+		cout<< "Dia de Stock: "<<vectorStock[x].getFechaTransax().getDia() <<endl;
         cout<< "Categoria: "<<vectorStock[x].getTRCategoria() <<endl;
         cout<< "Marca: "<<vectorStock[x].getTRMarca() <<endl;
         cout<< "Cantidad: "<<vectorStock[x].getTRCantidad() <<endl;

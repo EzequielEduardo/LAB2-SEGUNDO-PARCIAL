@@ -97,15 +97,12 @@ bool CompraVista::cargarCompras()
         compra.setTRCantidad(entero);
 
 	cout<<"Cantidad x Bulto:";
-	cin>>entero;
-	compra.setTRQxBulto(entero);
+		cin>>entero;
+		compra.setTRQxBulto(entero);
 
     cout<<"Precio Unitario: ";
-    cin>>decimal;
+		cin>>decimal;
         compra.setTRprecioUnitario(decimal);
-
-    cout<<"Impositivo Ventas:";
-        compra.setTRImpositivoVentas(decimal);
 
 
     TransaxinventarioNegocio negocio2;
@@ -122,19 +119,17 @@ bool CompraVista::mostrarCompras(){
     TransaxInventario *vectorCompras;
 
     vectorCompras=negocio.Cargar_Vector_de_Compras();///get_compras
-
+		 cout<< "LISTADO DE COMPRAS REALIZADAS"<<endl;
         for(int x;x<negocio.CantidadDeCompras();x++){
         cout<< "ID_Articulo: "<<vectorCompras[x].getTRID_Articulo() <<endl;
         cout<< "Anio de compra: "<<vectorCompras[x].getFechaTransax().getAnio() <<endl;
         cout<< "Mes de compra: "<<vectorCompras[x].getFechaTransax().getMes() <<endl;
 		cout<< "Dia de compra: "<<vectorCompras[x].getFechaTransax().getDia() <<endl;
-		cout<< "ID_Articulo: "<<vectorCompras[x].getTRID_Articulo() <<endl;
         cout<< "Categoria: "<<vectorCompras[x].getTRCategoria() <<endl;
         cout<< "Marca: "<<vectorCompras[x].getTRMarca() <<endl;
         cout<< "Cantidad: "<<vectorCompras[x].getTRCantidad() <<endl;
         cout<< "QxBulto: "<<vectorCompras[x].getTRQxBulto() <<endl;
         cout<< "Precio Unitario: "<<vectorCompras[x].getTRprecioUnitario() <<endl;
-		//cout<<"Fecha de Incorporacion: "<<vectorClientes[x].getFechadeIncorporacion() <<endl;
         cout<< "-------------------------"<<endl;}
 
     delete vectorCompras;

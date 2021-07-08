@@ -123,7 +123,7 @@ bool ClienteVista::cargarCliente()
 	datos.setCondicionDeCobro(cadena);
 
 	cout<<"Fecha de Incorporacion: ";
-	//datos.setFechadeIncorporacion(numero);
+
 
     return negocio.guardarDatos(datos);
 

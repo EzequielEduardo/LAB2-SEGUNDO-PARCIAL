@@ -3919,7 +3919,7 @@
 
 1625623801 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\include\menuprincipal.h
 
-1625716731 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\articulo.cpp
+1625782983 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\articulo.cpp
 	"Articulo.h"
 	<iostream>
 	<clocale>
@@ -3998,7 +3998,7 @@
 	"ClienteNegocio.h"
 	"ClienteVista.h"
 
-1625716131 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\clientevista.cpp
+1625783023 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\clientevista.cpp
 	<iostream>
 	<clocale>
 	<cstdlib>
@@ -4022,7 +4022,7 @@
 	"TransaxInventario.h"
 	"CompraNegocio.h"
 
-1625699708 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\include\transaxinventario.h
+1625781435 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\include\transaxinventario.h
 	"Fecha.h"
 
 1625699250 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\include\compranegocio.h
@@ -4045,10 +4045,10 @@
 	"CompraNegocio.h"
 	"CompraFile.h"
 
-1625744482 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\include\transaxinventarionegocio.h
+1625780983 c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\include\transaxinventarionegocio.h
 	"Transaxinventario.h"
 
-1625717122 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\compravista.cpp
+1625782661 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\compravista.cpp
 	<iostream>
 	<clocale>
 	<cstdlib>
@@ -4184,12 +4184,12 @@
 	<cstring>
 	"Transaxinventario.h"
 
-1625744883 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\transaxinventariofile.cpp
+1625783843 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\transaxinventariofile.cpp
 	<iostream>
 	"TransaxinventarioFile.h"
 	"Transaxinventario.h"
 
-1625744530 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\transaxinventarionegocio.cpp
+1625784095 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\transaxinventarionegocio.cpp
 	"TransaxinventarioNegocio.h"
 	"TransaxinventarioFile.h"
 
@@ -4219,7 +4219,7 @@
 	"VentaFile.h"
 	"Transaxinventario.h"
 
-1625717130 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\ventavista.cpp
+1625785141 source:c:\users\ujmvare\desktop\pers\lab ii\tp integrador\management_system_xion_2.10\src\ventavista.cpp
 	<iostream>
 	<clocale>
 	<cstdlib>

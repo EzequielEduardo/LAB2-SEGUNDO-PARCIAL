@@ -95,16 +95,18 @@ bool VentaVista::cargarVentas()
         cin>>entero;
         datos.setTRCantidad(entero);
 
+	cout<<"Cantidad x Bulto:";
+	cin>>entero;
+	datos.setTRQxBulto(entero);
+
     cout<<"Precio Unitario: ";
     cin>>decimal;
         datos.setTRprecioUnitario(decimal);
 
-   // cout<<"Impositivo Ventas:";
-   //     datos.setImpositivoVentas(decimal);
-
 
     TransaxinventarioNegocio negocio2;
     negocio2.actualizarstock(0,datos); //llamo al metodo de la clase TransaxinventarioNegocio que va a modificar el stock
+
     return negocio.guardarDatos(datos);
 
 }
@@ -115,12 +117,12 @@ bool VentaVista::mostrarVentas(){
     TransaxInventario *vectorVentas;
 
     vectorVentas=negocio.Cargar_Vector_de_Ventas();///get_compras
-
+		cout<< "LISTADO DE COMPRAS REALIZADAS"<<endl;
         for(int x;x<negocio.CantidadDeVentas();x++){
         cout<< "ID_Articulo: "<<vectorVentas[x].getTRID_Articulo() <<endl;
-        cout<< "Anio de compra: "<<vectorVentas[x].getFechaTransax().getAnio() <<endl;
-        cout<< "Mes de compra: "<<vectorVentas[x].getFechaTransax().getMes() <<endl;
 		cout<< "Dia de compra: "<<vectorVentas[x].getFechaTransax().getDia() <<endl;
+        cout<< "Mes de compra: "<<vectorVentas[x].getFechaTransax().getMes() <<endl;
+        cout<< "Anio de compra: "<<vectorVentas[x].getFechaTransax().getAnio() <<endl;
 		cout<< "ID_Articulo: "<<vectorVentas[x].getTRID_Articulo() <<endl;
         cout<< "Categoria: "<<vectorVentas[x].getTRCategoria() <<endl;
         cout<< "Marca: "<<vectorVentas[x].getTRMarca() <<endl;

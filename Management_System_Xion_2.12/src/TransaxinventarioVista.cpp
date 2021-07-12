@@ -25,7 +25,8 @@ void TransaxinventarioVista::MostrarInventario(){
         cout<< "Cantidad: "<<vectorStock[x].getTRCantidad() <<endl;
         cout<< "QxBulto: "<<vectorStock[x].getTRQxBulto() <<endl;
         cout<< "Precio Unitario: "<<vectorStock[x].getTRprecioUnitario() <<endl;
-
+        cout<< "StockValorizado: "<<vectorStock[x].getStockValorizado() <<endl;
+        //cout<<" PrecioDeArt: "<<vectorStock[x].getPrecioArt()<<endl;
         cout<< "-------------------------"<<endl;}
 
     delete vectorStock;

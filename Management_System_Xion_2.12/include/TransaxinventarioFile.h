@@ -9,7 +9,7 @@ class TransaxinventarioFile
         bool grabarDatosInventario(TransaxInventario);
         TransaxInventario* obtener_Datos_Inventario();
 		int cantidadDeTransaxGrabadas();
-        int getStock();
+        int getTRCantidad();
 
         //metodos para compras
 		TransaxInventario* obtener_Datos_Compras();

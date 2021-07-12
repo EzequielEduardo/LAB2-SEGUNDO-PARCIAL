@@ -30,6 +30,8 @@ class TransaxInventario
         void setFechaTransax(Fecha);
         void _setFechaTransax(int,int,int);
         void setStock(float);
+        void setStockValorizado(float);
+        void setPrecioArt(float);
 
 		//GETS
         const char*  getTRID_Articulo();
@@ -41,6 +43,8 @@ class TransaxInventario
         float getTRImpositivoVentas();
 		Fecha getFechaTransax();
         float getStock();
+        float getStockValorizado();
+        float getPrecioArt();
 
         //CONSTRUCTOR
 		TransaxInventario(){};

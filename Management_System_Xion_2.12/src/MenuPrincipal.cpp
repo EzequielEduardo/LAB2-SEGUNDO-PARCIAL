@@ -122,8 +122,8 @@ void MenuPrincipal::submenuMaestros()
 
 
 void MenuPrincipal::submenuInventarios(){
-
-
+    CompraVista obj1;
+    VentaVista obj2;
     int opc;
     system("color 02");
 
@@ -144,7 +144,7 @@ void MenuPrincipal::submenuInventarios(){
         {
 
 		case 1:
-           CompraVista obj1;
+
            if(obj1.cargarCompras()==true) cout<<"　DATOS GUARDADOS CON EXITO!!"<<endl;
             else cout<<"　ERROR, NO SE PUDIERON GUARDAR LOS DATOS!!"<<endl;
 			system("pause");
@@ -158,7 +158,7 @@ void MenuPrincipal::submenuInventarios(){
 		break;
 
 		case 3:
-			VentaVista obj2;
+
 			if(obj2.cargarVentas()==true) cout<<"　DATOS GUARDADOS CON EXITO!!"<<endl;
             else cout<<"　ERROR, NO SE PUDIERON GUARDAR LOS DATOS!!"<<endl;
 			system("pause");
@@ -169,16 +169,14 @@ void MenuPrincipal::submenuInventarios(){
 			obj2.mostrarVentas();
 			system("pause");
 			system("cls");
-
+            break;
 		case 5:
-
-
 
 			TransaxinventarioVista obj3;
 			obj3.MostrarInventario();
 			system("pause");
 			system("cls");
-
+            break;
         case 0:
             cout<<"-----FIN DEL PROGRAMA-----";
             break;

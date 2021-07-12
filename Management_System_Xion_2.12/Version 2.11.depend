@@ -5039,3 +5039,391 @@
 	"VentaNegocio.h"
 	"VentaVista.h"
 
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\main.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Cliente.h"
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"ClienteVista.h"
+	"Proveedor.h"
+	"MenuPrincipal.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\fecha.h
+	<iostream>
+	<string.h>
+	<ctime>
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\cliente.h
+	"Persona.h"
+	"Fecha.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\persona.h
+	"Persona.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\clientenegocio.h
+	"Cliente.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\clientefile.h
+	"ClienteNegocio.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\clientevista.h
+	"ClienteNegocio.h"
+	"Cliente.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\proveedor.h
+	"Proveedor.h"
+	"Persona.h"
+	"Fecha.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\menuprincipal.h
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\articulo.cpp
+	"Articulo.h"
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\articulo.h
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\articulofile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ArticuloNegocio.h"
+	"ArticuloFile.h"
+	"Articulo.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\articulonegocio.h
+	"ArticuloNegocio.h"
+	"Articulo.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\articulofile.h
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\articulonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Articulo.h"
+	"ArticuloFile.h"
+	"ArticuloNegocio.h"
+	"ArticuloVista.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\articulovista.h
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\articulovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Articulo.h"
+	"ArticuloVista.h"
+	"ArticuloNegocio.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\cliente.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Cliente.h"
+	"Persona.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\clientefile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ClienteNegocio.h"
+	"ClienteFile.h"
+	"Cliente.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\clientenegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteFile.h"
+	"ClienteNegocio.h"
+	"ClienteVista.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\clientevista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Cliente.h"
+	"ClienteVista.h"
+	"ClienteNegocio.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\comprafile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"CompraFile.h"
+	"TransaxInventario.h"
+	"TransaxinventarioFile.h"
+	"CompraNegocio.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\comprafile.h
+	"TransaxInventario.h"
+	"CompraNegocio.h"
+
+1626037379 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\transaxinventario.h
+	"Fecha.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\compranegocio.h
+	"Transaxinventario.h"
+	"Articulo.h"
+
+1626047715 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\transaxinventariofile.h
+	"Transaxinventario.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\compranegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"TransaxinventarioNegocio.h"
+	"TransaxinventarioFile.h"
+	"Transaxinventario.h"
+	"CompraNegocio.h"
+	"CompraFile.h"
+
+1626042762 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\transaxinventarionegocio.h
+	"Transaxinventario.h"
+
+1626050532 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\compravista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Articulo.h"
+	"Transaxinventario.h"
+	"TransaxinventarioNegocio.h"
+	"CompraNegocio.h"
+	"CompraVista.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\compravista.h
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\empleado.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Empleado.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\empleado.h
+	"Persona.h"
+	"Fecha.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\empleadofile.cpp
+	<clocale>
+	<cstdlib>
+	"EmpleadoNegocio.h"
+	"EmpleadoFile.h"
+	"Empleado.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\empleadonegocio.h
+	"Empleado.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\empleadofile.h
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\empleadonegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Empleado.h"
+	"EmpleadoFile.h"
+	"EmpleadoNegocio.h"
+	"EmpleadoVista.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\empleadovista.h
+	"EmpleadoNegocio.h"
+	"Empleado.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\empleadovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Fecha.h"
+	"Empleado.h"
+	"EmpleadoVista.h"
+	"EmpleadoNegocio.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\fecha.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Fecha.h"
+
+1626043945 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\menuprincipal.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"MenuPrincipal.h"
+	"ArticuloVista.h"
+	"ClienteVista.h"
+	"ProveedorVista.h"
+	"EmpleadoVista.h"
+	"CompraVista.h"
+	"VentaVista.h"
+	"TransaxinventarioVista.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\proveedorvista.h
+	"Proveedor.h"
+	"ProveedorNegocio.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\proveedornegocio.h
+	"Proveedor.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\ventavista.h
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\transaxinventariovista.h
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\persona.cpp
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Persona.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\proveedor.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Proveedor.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\proveedorfile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"ProveedorNegocio.h"
+	"ProveedorFile.h"
+	"Proveedor.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\proveedorfile.h
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\proveedornegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorFile.h"
+	"ProveedorNegocio.h"
+	"ProveedorVista.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\proveedorvista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Proveedor.h"
+	"ProveedorVista.h"
+	"ProveedorNegocio.h"
+
+1626037379 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\transaxinventario.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Transaxinventario.h"
+
+1626050532 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\transaxinventariofile.cpp
+	<iostream>
+	"TransaxinventarioFile.h"
+	"Transaxinventario.h"
+
+1626050327 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\transaxinventarionegocio.cpp
+	"TransaxinventarioNegocio.h"
+	"TransaxinventarioFile.h"
+
+1626047140 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\transaxinventariovista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"TransaxinventarioVista.h"
+	"TransaxinventarioNegocio.h"
+	"Transaxinventario.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\ventafile.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	"VentaFile.h"
+	"Articulo.h"
+	"VentaNegocio.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\ventafile.h
+	"Transaxinventario.h"
+
+1626012990 c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\include\ventanegocio.h
+	"Transaxinventario.h"
+
+1626012990 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\ventanegocio.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"Articulo.h"
+	"VentaNegocio.h"
+	"VentaFile.h"
+	"Transaxinventario.h"
+
+1626048013 source:c:\users\usuario\downloads\lab2-segundo-parcial-main\management_system_xion_2.12\src\ventavista.cpp
+	<iostream>
+	<clocale>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<string.h>
+	"TransaxinventarioNegocio.h"
+	"Transaxinventario.h"
+	"VentaNegocio.h"
+	"VentaVista.h"
+

@@ -2,23 +2,27 @@
 #include "TransaxinventarioFile.h"
 
 //METODOS TRANSAX
-void TransaxinventarioNegocio::actualizarstock(bool tipoTrans,TransaxInventario datos)
+void TransaxinventarioNegocio::actualizarstock(bool tipoTrans,TransaxInventario &datos)
 {
     TransaxinventarioFile archivo;
-    int stock=archivo.getStock();// cargo la disponibilidad del stock INICIAL en una variable
+    TransaxInventario objStock=datos;
 
-    if(tipoTrans==false) //verifico si la transaccion es de tipo VENTA:
+    int stock=archivo.getTRCantidad();// cargo la disponibilidad del stock INICIAL en una variable
+
+    if(tipoTrans==0) //verifico si la transaccion es de tipo VENTA:
     {
         stock-=datos.getTRCantidad();//sumo cantidad de productos al stock
+
     }
     else// caso contrario,si la transaccion es de tipo compra:
     {
         stock+=datos.getTRCantidad();//resto cantidad de productos al stock
+
     }
-
-     datos.setStock(stock);//modifico el stock en la clase Transinventario
-
-     archivo.grabarDatosInventario(datos);
+        objStock.setTRCantidad(stock);//modifico el stock en la instancia de la clase clase Transinventario
+        float stockValorizado=stock*datos.getPrecioArt();
+        objStock.setStockValorizado(stockValorizado);//modifico el stockValorizado en la instancia de la clase clase Transinventario
+        archivo.grabarDatosInventario(objStock); //actualizo el stock
 }
 
 int TransaxinventarioNegocio::CantidadDeTransax()
@@ -50,6 +54,12 @@ TransaxInventario* TransaxinventarioNegocio::Cargar_Vector_de_Stocks()
 return vectorStocks;
 }
 
+
+float getTRCantidad(){
+TransaxinventarioFile archivo;
+return archivo.getTRCantidad();
+}
+
 //METODOS COMPRAS
 bool TransaxinventarioNegocio::guardarDatosCompra(TransaxInventario compra)
 {
@@ -78,6 +88,12 @@ int TransaxinventarioNegocio::CantidadDeCompras()
 
 
 //METODOS VENTAS
+
+bool TransaxinventarioNegocio::guardarDatosVenta(TransaxInventario venta)
+{
+    TransaxinventarioFile archivo;
+    return archivo.grabarDatosVentasEnDisco(venta);
+}
 
 TransaxInventario* TransaxinventarioNegocio::Cargar_Vector_de_Ventas()
 {

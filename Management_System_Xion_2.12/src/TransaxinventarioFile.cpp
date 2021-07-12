@@ -92,14 +92,17 @@ bool TransaxinventarioFile::grabarDatosVentasEnDisco(TransaxInventario venta) //
 }
 
 
-int TransaxinventarioFile::getStock(){
+int TransaxinventarioFile::getTRCantidad(){
         TransaxInventario datos;
         FILE *p;
         p=fopen("Inventario.dat","rb");// abro el archivo en modo lectura
         if(p==NULL) return 0;
-        fseek(p,sizeof (TransaxInventario), 2); //posiciono el puntero al final del archivo
+        //fseek(p,sizeof (TransaxInventario), SEEK_END); //posiciono el puntero al final del archivo
         fread(&datos, sizeof (TransaxInventario), 1, p);
-return datos.getStock();//devuelvo el stock disponible;
+        cout<<"en el archivo: "<<datos.getTRCantidad();
+        system("pause");
+
+        return datos.getTRCantidad();//devuelvo el stock disponible;
 }
 
 

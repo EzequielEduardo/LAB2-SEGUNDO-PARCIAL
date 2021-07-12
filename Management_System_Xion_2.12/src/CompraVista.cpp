@@ -63,8 +63,6 @@ bool CompraVista::cargarCompras()
     int entero,dia,mes,anio;
     float decimal;
 
-
-
     cout<<"Datos de la fecha actual: "<<endl;
     cout<<"Dia: ";
     cin>>dia;
@@ -104,13 +102,12 @@ bool CompraVista::cargarCompras()
 		cin>>decimal;
         compra.setTRprecioUnitario(decimal);
 
+    cout<<"Precio Articulo: ";
+		cin>>decimal;
+        compra.setPrecioArt(decimal);
 
-    TransaxinventarioNegocio negocio2;
-
-    negocio2.actualizarstock(1,compra); //  llamo al metodo de la clase TransaxinventarioNegocio que va a modificar el stock
+    negocio.actualizarstock(1,compra); //  llamo al metodo de la clase TransaxinventarioNegocio que va a modificar el stock y stockValorizado
     return negocio.guardarDatosCompra(compra);
-
-
 }
 
 bool CompraVista::mostrarCompras(){
@@ -119,6 +116,7 @@ bool CompraVista::mostrarCompras(){
     TransaxInventario *vectorCompras;
 
     vectorCompras=negocio.Cargar_Vector_de_Compras();///get_compras
+
 		 cout<< "LISTADO DE COMPRAS REALIZADAS"<<endl;
         for(int x;x<negocio.CantidadDeCompras();x++){
         cout<< "ID_Articulo: "<<vectorCompras[x].getTRID_Articulo() <<endl;
@@ -130,6 +128,9 @@ bool CompraVista::mostrarCompras(){
         cout<< "Cantidad: "<<vectorCompras[x].getTRCantidad() <<endl;
         cout<< "QxBulto: "<<vectorCompras[x].getTRQxBulto() <<endl;
         cout<< "Precio Unitario: "<<vectorCompras[x].getTRprecioUnitario() <<endl;
+        //cout<< "Stock: "<<vectorCompras[x].getStock() <<endl;
+        //cout<< "StockValorizado: "<<vectorCompras[x].getStockValorizado() <<endl;
+        //cout<<" PrecioDeArt: "<<vectorCompras[x].getPrecioArt()<<endl;
         cout<< "-------------------------"<<endl;}
 
     delete vectorCompras;

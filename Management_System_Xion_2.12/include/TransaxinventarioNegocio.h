@@ -5,11 +5,11 @@
 class TransaxinventarioNegocio
 {
     public:
-	void actualizarstock(bool,TransaxInventario);
+	void actualizarstock(bool,TransaxInventario&);
 	int CantidadDeTransax();
 	void cargarCadena(char *pal, int tam);
 	TransaxInventario* Cargar_Vector_de_Stocks();
-
+    float getStock();
 
 	//para compras
 	TransaxInventario* Cargar_Vector_de_Compras();
@@ -19,6 +19,7 @@ class TransaxinventarioNegocio
 	//para ventas
 	TransaxInventario* Cargar_Vector_de_Ventas();
 	int CantidadDeVentas();
+	bool guardarDatosVenta(TransaxInventario);
 
 };
 

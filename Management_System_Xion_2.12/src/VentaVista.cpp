@@ -57,7 +57,7 @@ void VentaVista::menuVentas()
 
 bool VentaVista::cargarVentas()
 {
-    VentaNegocio negocio;
+    TransaxinventarioNegocio negocio;
     char cadena[20];
     int entero,dia,mes,anio;;
     float decimal;
@@ -70,7 +70,7 @@ bool VentaVista::cargarVentas()
     cout<<"Anio: ";
     cin>>anio;
 
-    TransaxInventario datos(dia,mes,anio);
+    TransaxInventario venta(dia,mes,anio);
 
     cout<<"--------------------------------------"<<endl;
 
@@ -78,33 +78,32 @@ bool VentaVista::cargarVentas()
     cout<<"Ingresar: "<<endl;
 
     cout<<"ID_Articulo: ";
-        negocio.cargarCadena(cadena,20);
-        datos.setTRID_Articulo(cadena);
+    negocio.cargarCadena(cadena,20);
+    venta.setTRID_Articulo(cadena);
 
     cout<<"Categoria:";
-        negocio.cargarCadena(cadena,20);
-        datos.setTRCategoria(cadena);
+    negocio.cargarCadena(cadena,20);
+    venta.setTRCategoria(cadena);
 
     cout<<"Marca:";
-      negocio.cargarCadena(cadena,20);
-        datos.setTRMarca(cadena);
+    negocio.cargarCadena(cadena,20);
+    venta.setTRMarca(cadena);
 
     cout<<"Cantidad:";
-        cin>>entero;
-        datos.setTRCantidad(entero);
+    cin>>entero;
+    venta.setTRCantidad(entero);
 
 	cout<<"Cantidad x Bulto:";
 	cin>>entero;
-	datos.setTRQxBulto(entero);
+	venta.setTRQxBulto(entero);
 
     cout<<"Precio Unitario: ";
     cin>>decimal;
-    datos.setTRprecioUnitario(decimal);
+    venta.setTRprecioUnitario(decimal);
 
-    TransaxinventarioNegocio negocio2;
-    negocio2.actualizarstock(0,datos); //llamo al metodo de la clase TransaxinventarioNegocio que va a modificar el stock
+    negocio.actualizarstock(0,venta); //  llamo al metodo de la clase TransaxinventarioNegocio que va a modificar el stock y stockValorizado
 
-    return negocio.guardarDatos(datos);
+    return negocio.guardarDatosVenta(venta);
 }
 
 bool VentaVista::mostrarVentas(){
@@ -113,7 +112,7 @@ bool VentaVista::mostrarVentas(){
     TransaxInventario *vectorVentas;
 
     vectorVentas=negocio.Cargar_Vector_de_Ventas();///get_compras
-		cout<< "LISTADO DE COMPRAS REALIZADAS"<<endl;
+		cout<< "LISTADO DE VENTAS REALIZADAS"<<endl;
         for(int x;x<negocio.CantidadDeVentas();x++){
         cout<< "ID_Articulo: "<<vectorVentas[x].getTRID_Articulo() <<endl;
 		cout<< "Dia de compra: "<<vectorVentas[x].getFechaTransax().getDia() <<endl;
@@ -125,7 +124,9 @@ bool VentaVista::mostrarVentas(){
         cout<< "Cantidad: "<<vectorVentas[x].getTRCantidad() <<endl;
         cout<< "QxBulto: "<<vectorVentas[x].getTRQxBulto() <<endl;
         cout<< "Precio Unitario: "<<vectorVentas[x].getTRprecioUnitario() <<endl;
-
+        //cout<< "Stock: "<<vectorVentas[x].getStock() <<endl;
+        //cout<< "StockValorizado: "<<vectorVentas[x].getStockValorizado() <<endl;
+        //cout<<" PrecioDeArt: "<<vectorVentas[x].getPrecioArt()<<endl;
         cout<< "-------------------------"<<endl;}
 
     delete vectorVentas;

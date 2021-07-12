@@ -13,6 +13,8 @@
         void TransaxInventario::setTRprecioUnitario(float n){trprecioUnitario=n;}
 		void TransaxInventario::setFechaTransax(Fecha xx){fechaTransax=xx;}
 		void TransaxInventario::setStock(float n){stock=n;}
+        void TransaxInventario::setStockValorizado(float n){stockValorizado=n;}
+        void TransaxInventario::setPrecioArt(float n){precioDeArt=n;}
 
 
         TransaxInventario::TransaxInventario(int d,int m,int a){
@@ -28,4 +30,5 @@
         float        TransaxInventario::getTRprecioUnitario(){return trprecioUnitario;}
 		Fecha        TransaxInventario::getFechaTransax(){return fechaTransax;}
 		float        TransaxInventario::getStock(){return stock;}
-
+        float        TransaxInventario::getStockValorizado(){return stockValorizado;}
+        float        TransaxInventario::getPrecioArt(){return precioDeArt;}
